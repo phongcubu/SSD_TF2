@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>doanmanhdat.jpg</filename>
+	<path>D:\HocTapNghienCuuPyThon\Machine_Leaning\hocmay\TensorFlowObjectDections\data\doanmanhdat.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>827</width>
+		<height>527</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quochuy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>22</ymin>
+			<xmax>200</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

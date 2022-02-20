@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>giangvanthang.jpg</filename>
+	<path>D:\HocTapNghienCuuPyThon\Machine_Leaning\hocmay\TensorFlowObjectDections\data\giangvanthang.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>575</width>
+		<height>370</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quochuy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>10</ymin>
+			<xmax>153</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

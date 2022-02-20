@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>doquang.jpg</filename>
+	<path>D:\HocTapNghienCuuPyThon\Machine_Leaning\hocmay\TensorFlowObjectDections\data\doquang.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quochuy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>173</ymin>
+			<xmax>322</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

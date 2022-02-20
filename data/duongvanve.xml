@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>duongvanve.jpg</filename>
+	<path>D:\HocTapNghienCuuPyThon\Machine_Leaning\hocmay\TensorFlowObjectDections\data\duongvanve.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>531</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>quochuy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>9</ymin>
+			<xmax>133</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>
