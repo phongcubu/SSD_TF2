@@ -30,7 +30,11 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     VOC_LABELS = {
         'none': (0, 'Background'),
-        'quochuy': (1, 'quochuy'),
+        # 'quochuy': (1, 'quochuy'),
+        'topleft': (1, 'topleft'),
+        'topright': (2, 'topright'),
+        'bottomleft': (3, 'bottomleft'),
+        'bottomright': (4, 'bottomright'),
         }
        
     return VOC_LABELS[row_label][0]
